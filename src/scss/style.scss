@@ -1,0 +1,10 @@
+$bg-color:#ccc;
+$font-color:#333;
+body{
+    background: $bg-color;
+    color:$font-color;
+}
+
+a{
+    transition:all 320ms ease;
+}

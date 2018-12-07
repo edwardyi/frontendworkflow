@@ -1,0 +1,30 @@
+{
+  "name": "frontend-workflow",
+  "version": "1.0.0",
+  "description": "a simple front end workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardyi/frontendworkflow.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "edwardyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardyi/frontendworkflow/issues"
+  },
+  "homepage": "https://github.com/edwardyi/frontendworkflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemap": "^1.0.1",
+    "uglify-js": "^3.4.9"
+  }
+}
